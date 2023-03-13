@@ -1,1 +1,1 @@
-## Q n A Bot with Chatgpt
+## QnA Bot with Chatgpt
