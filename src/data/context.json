@@ -1,0 +1,28 @@
+{
+    "company_name": "Dataswira Inc.",
+    "location": "Western Kenya",
+    "industry": "Software Development",
+    "services": ["BI", "Data Analytics", "Software Services"],
+    "founded": "2015",
+    "key_people": [
+      {
+        "name": "John Doe",
+        "position": "CEO"
+      },
+      {
+        "name": "Jane Doe",
+        "position": "COO"
+      },
+      {
+        "name": "Michael Smith",
+        "position": "CTO"
+      }
+    ],
+    "num_employees": "50-100",
+    "website": "www.dataswira.com",
+    "social_media": {
+      "twitter": "https://twitter.com/dataswira",
+      "linkedin": "https://www.linkedin.com/company/dataswira-inc"
+    },
+    "description": "Dataswira Inc. is a software development company based in Western Kenya. The company provides business intelligence (BI), data analytics, and software services to clients in various industries. Dataswira Inc. was founded in 2015 by a team of experienced professionals in the software industry. The company's key people include John Doe as the CEO, Jane Doe as the COO, and Michael Smith as the CTO. Dataswira Inc. has a team of 50-100 employees and is committed to delivering quality software solutions to its clients. Visit their website at www.dataswira.com or follow them on Twitter and LinkedIn for updates and news."
+  }
